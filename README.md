@@ -4,10 +4,6 @@
 
 <div align="center">
 
-Isso aqui é um comentário no código, não vai aparecer no resultado final.
-Abaixo estão as "badges". Elas dão um visual profissional.
-Eu já selecionei as principais que você mencionou.
-
 ---
 
 ### 🛠️ Minha Caixa de Ferramentas
@@ -68,14 +64,14 @@ Não sou apenas um digitador de código. Meu foco é arquitetura e resolução d
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv-santiago-souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-santiago-souza&layout=compact&theme=dark"/>
 
 <br>
 
 ### 📫 Vamos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovssouza/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.v.santiago.souza@gmail.com)
 
 </div>
