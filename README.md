@@ -62,13 +62,6 @@ Não sou apenas um digitador de código. Meu foco é arquitetura e resolução d
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv-santiago-souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-santiago-souza&layout=compact&theme=dark"/>
-
-<br>
-
 ### 📫 Vamos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovssouza/)
