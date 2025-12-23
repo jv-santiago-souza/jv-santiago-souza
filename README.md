@@ -12,7 +12,7 @@ Atualmente, estou focado em migração de sistemas legados para arquiteturas con
 
 Aqui estão as soluções que definem minha carreira até agora. Do chão de fábrica à nuvem.
 
-### 1. 🏢 Painel do Colaborador (Anclinic) - A Jornada de Evolução
+### 1. 🏢 Painel do Colaborador - A Jornada de Evolução
 > *De um MVP Low-Code para uma Arquitetura Enterprise na AWS.*
 
 Este projeto é a prova viva da minha adaptabilidade. Iniciei atendendo uma demanda urgente com ferramentas limitadas e, após o sucesso do MVP, liderei a refatoração completa para uma stack de alto nível.
@@ -22,11 +22,11 @@ Este projeto é a prova viva da minha adaptabilidade. Iniciei atendendo uma dema
 | **V1 (Legacy)** | ![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white) **Sheets DB** | Um SPA complexo injetado no ecossistema Google. Superei limites da plataforma criando roteamento manual e autenticação Hash/Salt própria. |
 | **V2 (Enterprise)** | ![Django](https://img.shields.io/badge/Django_DRF-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Migração para Microserviços. Backend Python (DRF), Frontend React, Banco PostgreSQL e Arquivos no S3. Foco em segurança, performance e Docker. |
 
-[🔗 Ver o Código / Estudo de Caso](LINK_DO_SEU_REPO_ANCLINIC_AQUI)
+[🔗 Ver o Código / Estudo de Caso]()
 
 ---
 
-### 2. 🏭 Metalgon AI Counter
+### 2. 🏭 AI Counter
 > *Vencedor do Desafio de Inovação SENAI 🏆*
 
 Solução industrial para contagem automática de peças pequenas utilizando Inteligência Artificial.
@@ -36,11 +36,11 @@ Solução industrial para contagem automática de peças pequenas utilizando Int
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_Custom_Vision-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Innovation](https://img.shields.io/badge/Innovation-Award-gold)
 
-[🔗 Ver Demonstração](LINK_DO_SEU_REPO_METALGON_AQUI)
+[🔗 Ver Demonstração]()
 
 ---
 
-### 3. 🦺 IoT Safety Vest (Smart EPI)
+### 3. 🦺 IoT SafeVest (Smart EPI)
 > *Conectando Hardware e Software para salvar vidas.*
 
 Um colete inteligente desenvolvido para segurança do trabalho em ambientes de risco.
@@ -60,17 +60,8 @@ Um colete inteligente desenvolvido para segurança do trabalho em ambientes de r
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Especialidades**
-![Computer Vision](https://img.shields.io/badge/AI-Computer_Vision-blueviolet)
-![IoT](https://img.shields.io/badge/IoT-Embedded_Systems-orange)
 
 ---
 
