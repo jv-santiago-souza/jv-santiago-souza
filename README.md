@@ -67,10 +67,10 @@ Um colete inteligente desenvolvido para segurança do trabalho em ambientes de r
 <div align="center">
   <h3>Vamos construir algo incrível juntos?</h3>
   <p>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/joaovssouza" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="mailto:SEU_EMAIL@GMAIL.COM">
+    <a href="mailto:joao.v.santiago.souza@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
   </p>
