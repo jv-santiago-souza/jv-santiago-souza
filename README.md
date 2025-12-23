@@ -8,7 +8,7 @@ Atualmente, meu foco é o desenvolvimento de APIs RESTful robustas e a construç
 
 ---
 
-## 🏆 The Big Three (Projetos em Destaque)
+## 🏆 The Big 3 (Projetos em Destaque)
 
 Aqui estão as soluções que definem minha carreira até agora. Do chão de fábrica à nuvem.
 
