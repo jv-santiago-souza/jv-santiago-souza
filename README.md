@@ -42,8 +42,8 @@ Solução industrial para contagem automática de peças pequenas utilizando Int
 > *Conectando Hardware e Software para salvar vidas.*
 
 Um colete inteligente desenvolvido para segurança do trabalho em ambientes de risco.
-* **Tecnologia:** Placa microcontroladora (ESP32) com sensores de gás/queda enviando dados em tempo real via **MQTT**.
-* **Backend:** API Django consumindo a telemetria, processando alertas e exibindo em dashboard para gestores de segurança.
+* **Tecnologia:** Placa microcontroladora (ESP32) com sensores de gás, temperatura corporal e frequência cardíaca enviando dados em tempo real via **MQTT**.
+* **Backend:** API Django consumindo a telemetria, salvando em banco de dados, processando alertas e exibindo em dashboard para gestores de segurança.
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
