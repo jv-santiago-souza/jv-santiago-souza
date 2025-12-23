@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=23&duration=3500&pause=1000&color=16FF71&center=true&width=435&lines=Ol%C3%A1!+Prazer%2C+Jo%C3%A3o+Vitor!;Dev+Backend+jr;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
 
-### Desenvolvedor Full Stack | Entusiasta de IA & IoT | Arquiteto de Soluções
+### Desenvolvedor Backend Jr | Entusiasta de Web Dev, IA & IoT | Arquiteto de Soluções
 
-Sou um desenvolvedor movido por **problemas reais**. Minha jornada não é sobre acumular stacks, mas sobre usar a ferramenta certa — seja Low-Code ou Arquitetura Enterprise — para entregar valor, segurança e escalabilidade.
+Desenvolvedor Backend focado em transformar desafios de negócio em software eficiente. Acredito que a tecnologia deve servir à solução, priorizando sempre código limpo, segurança e escalabilidade na entrega de valor.
 
-Atualmente, estou focado em migração de sistemas legados para arquiteturas containerizadas na **AWS** e aplicação de **Visão Computacional** na indústria.
+Atualmente, meu foco é o desenvolvimento de APIs RESTful robustas e a construção de sistemas backend eficientes. Busco aplicar boas práticas de arquitetura para garantir que a aplicação web seja segura, organizada e de fácil manutenção.
 
 ---
 
