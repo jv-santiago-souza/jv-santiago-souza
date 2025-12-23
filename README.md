@@ -34,8 +34,6 @@ Solução industrial para contagem automática de peças pequenas utilizando Int
 * **A Solução:** Treinamento de modelo de Object Detection no **Azure Custom Vision**, integrado a um App mobile.
 * **Resultado:** Redução drástica no tempo de conferência e maior precisão no inventário.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_Custom_Vision-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Innovation](https://img.shields.io/badge/Innovation-Award-gold)
-
 [🔗 Ver Demonstração]()
 
 ---
