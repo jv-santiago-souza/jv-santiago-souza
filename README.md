@@ -20,7 +20,7 @@ Este projeto é a prova viva da minha adaptabilidade. Iniciei atendendo uma dema
 | Versão | Stack | Contexto |
 | :--- | :--- | :--- |
 | **V1 (Legacy)** | ![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) | Um SPA complexo injetado no ecossistema Google. Superei limites da plataforma criando roteamento manual e autenticação Hash/Salt própria. |
-| **V2 (Enterprise)** | ![Django](https://img.shields.io/badge/Django_DRF-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Migração para Microserviços. Backend Python (DRF), Frontend React, Banco PostgreSQL e Arquivos no S3. Foco em segurança, performance e Docker. |
+| **V2 (Enterprise)** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Migração para Microserviços. Backend Python (DRF), Frontend React, Banco PostgreSQL e Arquivos no S3. Foco em segurança, performance e Docker. |
 
 [🔗 Ver o Código / Estudo de Caso]()
 
