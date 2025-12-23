@@ -20,7 +20,7 @@ Este projeto é a prova viva da minha adaptabilidade. Iniciei atendendo uma dema
 | Versão | Stack | Contexto |
 | :--- | :--- | :--- |
 | **V1 (Legacy)** | ![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) | Um SPA complexo injetado no ecossistema Google. Superei limites da plataforma criando roteamento manual e autenticação Hash/Salt própria. |
-| **V2 (Enterprise)** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Migração para Microserviços. Backend Python (DRF), Frontend React, Banco PostgreSQL e Arquivos no S3. Foco em segurança, performance e Docker. |
+| **V2 (Enterprise)** | ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Migração para Microserviços. Backend Python (DRF), Frontend React, Banco PostgreSQL e Arquivos no S3. Foco em segurança, performance e Docker. |
 
 [🔗 Ver o Código / Estudo de Caso]()
 
@@ -45,21 +45,23 @@ Um colete inteligente desenvolvido para segurança do trabalho em ambientes de r
 * **Tecnologia:** Placa microcontroladora (ESP32) com sensores de gás/queda enviando dados em tempo real via **MQTT**.
 * **Backend:** API Django consumindo a telemetria, processando alertas e exibindo em dashboard para gestores de segurança.
 
-![IoT](https://img.shields.io/badge/IoT-MQTT-red) ![C++](https://img.shields.io/badge/C++-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Django](https://img.shields.io/badge/Django-Backend-092E20?style=flat&logo=django&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-[🔗 Ver Projeto](LINK_DO_SEU_REPO_TCC_AQUI)
+[🔗 Ver Projeto]()
 
 ---
 
 ## 🛠️ Arsenal Tecnológico
 
 **Backend & Infra**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
