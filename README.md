@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=23&duration=3500&pause=1000&color=6E23FF&center=true&width=435&separator=%3C&lines=Ol%C3%A1!+Prazer%2C+Jo%C3%A3o+Vitor!%3CDev+Backend+jr%3CSempre+aprendendo+algo+novo+;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=23&duration=3500&pause=1000&color=6E23FF&center=true&width=435&separator=%3C&lines=Ol%C3%A1!+Prazer%2C+Jo%C3%A3o+Vitor!%3CDev+Backend+jr%3CSempre+aprendendo+algo+novo+;))
 
 ### Desenvolvedor Full Stack | Entusiasta de IA & IoT | Arquiteto de Soluções
 
