@@ -1,77 +1,85 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=23&duration=3500&pause=1000&color=16FF71&center=true&width=435&lines=Ol%C3%A1!+Prazer%2C+Jo%C3%A3o+Vitor!;Dev+Backend+jr;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+# 👋 Olá, eu sou o João Vitor
 
-### Desenvolvedor Backend Jr | Entusiasta de Web Dev, IA & IoT | Arquiteto de Soluções
+**Desenvolvedor Backend Jr**  
+APIs • Cloud • Sistemas Web • Integração com IoT e IA
 
-Desenvolvedor Backend focado em transformar desafios de negócio em software eficiente. Acredito que a tecnologia deve servir à solução, priorizando sempre código limpo, segurança e escalabilidade na entrega de valor.
-
-Atualmente, meu foco é o desenvolvimento de APIs RESTful robustas e a construção de sistemas backend eficientes. Busco aplicar boas práticas de arquitetura para garantir que a aplicação web seja segura, organizada e de fácil manutenção.
-
----
-
-## 🏆 The Big Three (Projetos em Destaque)
-
-Aqui estão as soluções que definem minha carreira até agora. Do chão de fábrica à nuvem.
-
-### 1. 🏢 Painel do Colaborador - A Jornada de Evolução
-> *De um MVP Low-Code para uma Arquitetura Enterprise na AWS.*
-
-Este projeto é a prova viva da minha adaptabilidade. Iniciei atendendo uma demanda urgente com ferramentas limitadas e, após o sucesso do MVP, liderei a refatoração completa para uma stack de alto nível.
-
-| Versão | Stack | Contexto |
-| :--- | :--- | :--- |
-| **V1 (Legacy)** | ![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) | Um SPA complexo injetado no ecossistema Google. Superei limites da plataforma criando roteamento manual e autenticação Hash/Salt própria. |
-| **V2 (Enterprise)** | ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Migração para Microserviços. Backend Python (DRF), Frontend React, Banco PostgreSQL e Arquivos no S3. Foco em segurança, performance e Docker. |
-
-[🔗 Ver o Código / Estudo de Caso]()
+Sou desenvolvedor backend focado em construir sistemas eficientes, seguros e fáceis de manter.  
+Tenho experiência com projetos reais envolvendo integração de soluções IoT e IA ao backend, sempre buscando boas práticas de arquitetura e entrega de valor.
 
 ---
 
-### 2. 🏭 AI Counter
-> *Vencedor do Desafio de Inovação SENAI 🏆*
+## 🏆 Conquistas
 
-Solução industrial para contagem automática de peças pequenas utilizando Inteligência Artificial.
-* **O Problema:** Erros humanos na contagem de estoque causavam prejuízos na linha de produção.
-* **A Solução:** Treinamento de modelo de Object Detection no **Azure Custom Vision**, integrado a um App mobile.
-* **Resultado:** Redução drástica no tempo de conferência e maior precisão no inventário.
-
-[🔗 Ver Demonstração]()
+- 🥇 **Prêmio Roberto Mange — SENAI**
+- 🏆 **Equipe vencedora do Desafio de Ideias SENAI 2024 — Regional (Araçatuba/Birigui)**
 
 ---
 
-### 3. 🦺 IoT SafeVest (Smart EPI)
-> *Conectando Hardware e Software para salvar vidas.*
+## 🚀 Projetos em Destaque
 
-Um colete inteligente desenvolvido para segurança do trabalho em ambientes de risco.
-* **Tecnologia:** Placa microcontroladora (ESP32) com sensores de gás, temperatura corporal e frequência cardíaca enviando dados em tempo real via **MQTT**.
-* **Backend:** API Django consumindo a telemetria, salvando em banco de dados, processando alertas e exibindo em dashboard para gestores de segurança.
+### 🏢 Painel do Colaborador
+*MVP evoluído para arquitetura backend escalável em cloud*
 
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+Sistema interno criado para atender demandas operacionais e administrativas.
 
-[🔗 Ver Projeto]()
+- **V1 (MVP):** Google Apps Script + Google Sheets  
+  SPA com autenticação própria (hash/salt) e roteamento manual dentro do ecossistema Google.
+- **V2 (Refatoração):** Django REST, React, PostgreSQL, Docker e AWS  
+  Migração focada em segurança, escalabilidade e organização da arquitetura.  
+  Separação clara entre frontend e backend, versionamento de API e conteinerização com Docker.
 
----
-
-## 🛠️ Arsenal Tecnológico
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+🔗 *Link do repositório / estudo de caso*
 
 ---
 
-<div align="center">
-  <h3>Vamos construir algo incrível juntos?</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/joaovssouza" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:joao.v.santiago.souza@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-  </p>
-</div>
+### 🏭 AI Counter
+*🏆 Projeto vencedor — Desafio de Ideias SENAI 2024 — Regional (Araçatuba/Birigui)*
+
+Solução industrial para contagem automática de peças pequenas utilizando visão computacional.
+
+- Modelo de **Object Detection** treinado no **Azure Custom Vision**
+- Integração com aplicativo mobile via APIs REST
+- Redução de erros humanos e ganho de eficiência no inventário
+
+🔗 *Link do projeto / demo*
+
+---
+
+### 🦺 IoT SafeVest (Smart EPI)
+*Sistema IoT para segurança do trabalho*
+
+Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
+
+- **Hardware:** ESP32 com sensores de gás, temperatura corporal e frequência cardíaca
+- **Comunicação:** MQTT (telemetria), HTTP (APIs)
+- **Backend:** Django REST para ingestão de dados, processamento de alertas e dashboard gerencial
+
+🔗 *Link do projeto*
+
+---
+
+## 🛠️ Stack Tecnológica
+
+**Backend**
+- Python, Django, Django REST Framework
+
+**Infra & Cloud**
+- Docker, AWS, Azure
+
+**Banco de Dados**
+- PostgreSQL, MySQL
+
+**Integrações**
+- MQTT, ESP32, Azure Custom Vision
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaovssouza)
+- ✉️ joao.v.santiago.souza@gmail.com
+
+---
+
+> *Sempre aberto a trocar ideias, aprender e construir soluções reais.*
