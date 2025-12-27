@@ -131,25 +131,12 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovssouza)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.v.santiago.souza@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
 
 </div>
 
@@ -158,7 +145,5 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 <div align="center">
 
 > *Sempre aberto a trocar ideias, aprender e construir soluções reais.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square)
 
 </div>
