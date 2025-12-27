@@ -18,12 +18,14 @@
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor backend focado em construir sistemas **eficientes**, **seguros** e **fáceis de manter**.
+Sou desenvolvedor backend com foco em **arquitetura de sistemas**, **APIs REST**, **bancos de dados relacionais** e **cloud**.
 
-Tenho experiência com projetos reais envolvendo integração de soluções **IoT** e **IA** ao backend, sempre buscando boas práticas de arquitetura e entrega de valor.
+Minha experiência principal é com **Python/Django**, mas meu forte está nos **fundamentos de engenharia de software**: design de APIs, modelagem de dados, segurança, conteinerização e deploy em cloud. Tenho facilidade para aprender novas linguagens e frameworks quando o projeto exige.
+
+Experiência real com projetos envolvendo **IoT**, **IA** e **sistemas em produção**.
 
 ```
-APIs • Cloud • Sistemas Web • Integração com IoT e IA
+APIs REST • Arquitetura • Cloud • Banco de Dados • Integração IoT/IA
 ```
 
 ---
@@ -96,26 +98,48 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 
 ## 🛠️ Stack Tecnológica
 
-### Backend
+### Core Backend (Experiência Sólida)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### Fundamentos (Agnóstico de Stack)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=redis&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-239120?style=for-the-badge&logo=.net&logoColor=white)
+![OOP](https://img.shields.io/badge/POO-007396?style=for-the-badge&logo=java&logoColor=white)
+
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Modelagem_de_Dados-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Infra & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### IoT & Integrações
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Azure CV](https://img.shields.io/badge/Azure_Custom_Vision-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+> 💡 **Nota:** Minha stack principal é Python/Django, mas tenho base sólida em conceitos de engenharia de software que se aplicam a qualquer linguagem/framework backend (Java, Node.js, C#, etc). Aprendo rápido e me adapto conforme a necessidade do projeto.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -125,7 +149,7 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovssouza)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.v.santiago.souza@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jv-santiago-souza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
 
 </div>
 
@@ -134,5 +158,7 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 <div align="center">
 
 > *Sempre aberto a trocar ideias, aprender e construir soluções reais.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square)
 
 </div>
