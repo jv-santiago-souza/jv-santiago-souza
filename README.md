@@ -135,6 +135,4 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 
 > *Sempre aberto a trocar ideias, aprender e construir soluções reais.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=jv-santiago-souza&color=blueviolet&style=flat-square)
-
 </div>
