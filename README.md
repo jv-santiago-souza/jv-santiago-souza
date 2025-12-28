@@ -127,7 +127,7 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Azure CV](https://img.shields.io/badge/Azure_Custom_Vision-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-> 💡 **Nota:** Minha stack principal é Python/Django, mas tenho base sólida em conceitos de engenharia de software que se aplicam a qualquer linguagem/framework backend (Java, Node.js, C#, etc). Aprendo rápido e me adapto conforme a necessidade do projeto.
+> 💡 **Nota:** Minha stack principal é Python/Django, mas tenho base sólida em conceitos de engenharia de software que se aplicam a qualquer linguagem/framework backend (Java, Node.js, Golang, etc). Aprendo rápido e me adapto conforme a necessidade do projeto.
 
 ---
 
