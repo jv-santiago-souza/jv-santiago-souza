@@ -102,9 +102,8 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Fundamentos (Agnóstico de Stack)
+### Fundamentos
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=redis&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-239120?style=for-the-badge&logo=.net&logoColor=white)
