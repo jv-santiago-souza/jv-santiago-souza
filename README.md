@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o João Vitor
 
-**Desenvolvedor Backend Jr**
+**Desenvolvedor Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor backend com foco em **arquitetura de sistemas**, **APIs REST**, **bancos de dados relacionais** e **cloud**.
+Sou dev backend com foco em **arquitetura de sistemas**, **APIs REST**, **bancos de dados relacionais** e **cloud**.
 
 Minha experiência principal é com **Python/Django**, mas meu forte está nos **fundamentos de engenharia de software**: design de APIs, modelagem de dados, segurança, conteinerização e deploy em cloud. Tenho facilidade para aprender novas linguagens e frameworks quando o projeto exige.
 
@@ -66,7 +66,7 @@ Migração focada em segurança, escalabilidade e organização da arquitetura. 
 
 Solução industrial para contagem automática de peças pequenas utilizando visão computacional.
 
-- Modelo de **Object Detection** treinado no **Azure Custom Vision**
+- Modelo de **Object Detection** treinado em **Cloud**
 - Integração com aplicativo mobile via APIs REST
 - Redução de erros humanos e ganho de eficiência no inventário
 
