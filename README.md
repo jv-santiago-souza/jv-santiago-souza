@@ -12,17 +12,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+**Perfil e repositórios em Refatoração (recriação de repositórios e códigos arquivados)**
+
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou dev backend com foco em **arquitetura de sistemas**, **APIs REST**, **bancos de dados relacionais** e **cloud**.
 
 Minha experiência principal é com **Python/Django**, mas meu forte está nos **fundamentos de engenharia de software**: design de APIs, modelagem de dados, segurança, conteinerização e deploy em cloud. Tenho facilidade para aprender novas linguagens e frameworks quando o projeto exige.
 
-Experiência real com projetos envolvendo **IoT**, **IA** e **sistemas em produção**.
+Experiência real com projetos envolvendo **IoT**, **IA** e **programação web**.
 
 ```
 APIs REST • Arquitetura • Cloud • Banco de Dados • Integração IoT/IA
@@ -57,7 +59,7 @@ Migração focada em segurança, escalabilidade e organização da arquitetura. 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-🔗 *Link do repositório / estudo de caso*
+🔗 *Link do repositório*
 
 ---
 
@@ -74,7 +76,7 @@ Solução industrial para contagem automática de peças pequenas utilizando vis
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-🔗 *Link do projeto / demo*
+🔗 *Link do repositório*
 
 ---
 
@@ -92,7 +94,7 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-34A853?style=flat-square&logo=google&logoColor=white)
 
-🔗 *Link do projeto*
+🔗 *Link do repositório*
 
 ---
 
@@ -119,7 +121,6 @@ Colete inteligente para monitoramento de trabalhadores em ambientes de risco.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### IoT & Integrações
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
